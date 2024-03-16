@@ -1,0 +1,11 @@
+subghz_phy_pingpong\mem.o: ..\SHT\kernel\mem.c
+subghz_phy_pingpong\mem.o: ..\SHT\include\autocfg.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\hal.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\hal_int.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\hal_thread.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\mem.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\core.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\list.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\int.h
+subghz_phy_pingpong\mem.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+subghz_phy_pingpong\mem.o: ..\SHT\include\bitops.h

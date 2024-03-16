@@ -7,7 +7,7 @@
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2023 STMicroelectronics.
+  * Copyright (c) 2022 STMicroelectronics.
   * All rights reserved.
   *
   * This software is licensed under terms that can be found in the LICENSE file
@@ -27,7 +27,8 @@ extern "C" {
 #endif
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f1xx_hal.h"
+#include "stm32wlxx_hal.h"
+
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -35,7 +36,7 @@ extern "C" {
 
 /* Exported types ------------------------------------------------------------*/
 /* USER CODE BEGIN ET */
-
+#define USE_BARE_BOARD 
 /* USER CODE END ET */
 
 /* Exported constants --------------------------------------------------------*/
@@ -56,6 +57,22 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define RTC_N_PREDIV_S 10
+#define RTC_PREDIV_S ((1<<RTC_N_PREDIV_S)-1)
+#define RTC_PREDIV_A ((1<<(15-RTC_N_PREDIV_S))-1)
+#define LED3_Pin GPIO_PIN_3
+#define LED3_GPIO_Port GPIOB
+#define LED2_Pin GPIO_PIN_4
+#define LED2_GPIO_Port GPIOB
+#define LED1_Pin GPIO_PIN_5
+#define LED1_GPIO_Port GPIOB
+#define BUT1_Pin GPIO_PIN_0
+#define BUT1_GPIO_Port GPIOA
+#define BUT1_EXTI_IRQn EXTI0_IRQn
+#define USARTx_RX_Pin GPIO_PIN_3
+#define USARTx_RX_GPIO_Port GPIOA
+#define USARTx_TX_Pin GPIO_PIN_2
+#define USARTx_TX_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
 

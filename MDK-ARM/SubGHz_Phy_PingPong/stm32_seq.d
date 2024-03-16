@@ -1,0 +1,13 @@
+subghz_phy_pingpong\stm32_seq.o: ../Utilities/sequencer/stm32_seq.c
+subghz_phy_pingpong\stm32_seq.o: ../Utilities/sequencer/stm32_seq.h
+subghz_phy_pingpong\stm32_seq.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+subghz_phy_pingpong\stm32_seq.o: ../Core/Inc/utilities_conf.h
+subghz_phy_pingpong\stm32_seq.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+subghz_phy_pingpong\stm32_seq.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+subghz_phy_pingpong\stm32_seq.o: ../Utilities/misc/stm32_mem.h
+subghz_phy_pingpong\stm32_seq.o: ../Core/Inc/utilities_conf.h
+subghz_phy_pingpong\stm32_seq.o: ../Utilities/misc/stm32_tiny_vsnprintf.h
+subghz_phy_pingpong\stm32_seq.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+subghz_phy_pingpong\stm32_seq.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+subghz_phy_pingpong\stm32_seq.o: ../Core/Inc/utilities_def.h
+subghz_phy_pingpong\stm32_seq.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

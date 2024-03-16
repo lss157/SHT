@@ -1,0 +1,15 @@
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\kernel\comm_thrd.c
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\thread.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\autocfg.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\list.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\mem.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\hal.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\hal_int.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\hal_thread.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\core.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\event.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\lsched.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\policy.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\comm_thrd.h
+subghz_phy_pingpong\comm_thrd.o: ..\SHT\include\int.h
+subghz_phy_pingpong\comm_thrd.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

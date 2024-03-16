@@ -1,0 +1,14 @@
+subghz_phy_pingpong\stm32_adv_trace.o: ../Utilities/trace/adv_trace/stm32_adv_trace.c
+subghz_phy_pingpong\stm32_adv_trace.o: ../Utilities/trace/adv_trace/stm32_adv_trace.h
+subghz_phy_pingpong\stm32_adv_trace.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Core/Inc/utilities_conf.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Utilities/misc/stm32_mem.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Core/Inc/utilities_conf.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Utilities/misc/stm32_tiny_vsnprintf.h
+subghz_phy_pingpong\stm32_adv_trace.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+subghz_phy_pingpong\stm32_adv_trace.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+subghz_phy_pingpong\stm32_adv_trace.o: ../Core/Inc/utilities_def.h
+subghz_phy_pingpong\stm32_adv_trace.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+subghz_phy_pingpong\stm32_adv_trace.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,14 @@
+subghz_phy_pingpong\stm32_timer.o: ../Utilities/timer/stm32_timer.c
+subghz_phy_pingpong\stm32_timer.o: ../Utilities/timer/stm32_timer.h
+subghz_phy_pingpong\stm32_timer.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+subghz_phy_pingpong\stm32_timer.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+subghz_phy_pingpong\stm32_timer.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+subghz_phy_pingpong\stm32_timer.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+subghz_phy_pingpong\stm32_timer.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+subghz_phy_pingpong\stm32_timer.o: ../Core/Inc/utilities_conf.h
+subghz_phy_pingpong\stm32_timer.o: ../Utilities/misc/stm32_mem.h
+subghz_phy_pingpong\stm32_timer.o: ../Core/Inc/utilities_conf.h
+subghz_phy_pingpong\stm32_timer.o: ../Utilities/misc/stm32_tiny_vsnprintf.h
+subghz_phy_pingpong\stm32_timer.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+subghz_phy_pingpong\stm32_timer.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+subghz_phy_pingpong\stm32_timer.o: ../Core/Inc/utilities_def.h

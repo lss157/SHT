@@ -1,0 +1,11 @@
+subghz_phy_pingpong\hal_int_c.o: ..\BSP\STM32WLxx_LM403\hal_int_c.c
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\hal_int.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\lsched.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\thread.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\autocfg.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\list.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\mem.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\hal.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\hal_thread.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\core.h
+subghz_phy_pingpong\hal_int_c.o: ..\aCoral\include\event.h

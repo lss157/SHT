@@ -1,0 +1,12 @@
+subghz_phy_pingpong\event.o: ..\SHT\kernel\event.c
+subghz_phy_pingpong\event.o: ..\SHT\include\event.h
+subghz_phy_pingpong\event.o: ..\SHT\include\mem.h
+subghz_phy_pingpong\event.o: ..\SHT\include\autocfg.h
+subghz_phy_pingpong\event.o: ..\SHT\include\hal.h
+subghz_phy_pingpong\event.o: ..\SHT\include\hal_int.h
+subghz_phy_pingpong\event.o: ..\SHT\include\hal_thread.h
+subghz_phy_pingpong\event.o: ..\SHT\include\core.h
+subghz_phy_pingpong\event.o: ..\SHT\include\list.h
+subghz_phy_pingpong\event.o: ..\SHT\include\message.h
+subghz_phy_pingpong\event.o: ..\SHT\include\thread.h
+subghz_phy_pingpong\event.o: E:\download_software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
